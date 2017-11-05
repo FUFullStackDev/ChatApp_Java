@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+
+
 package socketio;
 
 import java.io.ObjectInputStream;
@@ -21,6 +24,7 @@ public class ReadThread implements Runnable {
     ObjectInputStream objIn;
     JTabbedPane tabPane;
     ObjectOutputStream objOut, objOutFile;
+    private final String username = "HIHI";
 
     public ReadThread(ObjectInputStream objIn, JTabbedPane tabPane, ObjectOutputStream objOut, ObjectOutputStream objOutFile) {
         this.objIn = objIn;
