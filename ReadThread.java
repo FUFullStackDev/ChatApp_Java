@@ -10,8 +10,11 @@ asdsaddsad
  */
         
         fsafhisahfasdfdfs con bo cuoi 
+
+dsfsadfasdfasdfs dfasfasdfasdf
 public class ReadThread implements Runnable {
 
+    
     ObjectInputStream objIn;
     JTabbedPane tabPane;
     ObjectOutputStream objOut, objOutFile;
