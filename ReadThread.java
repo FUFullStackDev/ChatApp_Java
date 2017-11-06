@@ -3,18 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-
-
-package socketio;
-
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import javax.swing.JButton;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-import javax.swing.JTabbedPane;
-
+asdsaddsad
 /**
  *
  * @author ngocnt
