@@ -8,6 +8,8 @@ asdsaddsad
  *
  * @author ngocnt
  */
+        
+        fsafhisahfasdfdfs con bo cuoi 
 public class ReadThread implements Runnable {
 
     ObjectInputStream objIn;
